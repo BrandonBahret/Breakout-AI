@@ -10,8 +10,9 @@ Usage:
  1. open the Atari 2600 emulator Stella
  2. load a legal copy of Breakout
  3. Tab out of the emulator
- 4. Focus Stella by clicking the window
- 5. Press f2, and then space, to start the game.
+ 4. Start the Ai
+ 5. Focus Stella by clicking the window
+ 6. Press f2, and then space, to start the game.
  watch the magic.
  
 Disclaimer: The ai isn't close to perfect, and results may vary.
