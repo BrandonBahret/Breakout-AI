@@ -16,3 +16,6 @@ Usage:
  watch the magic.
  
 Disclaimer: The ai isn't close to perfect, and results may vary.
+
+## Brief explanation
+I'm using the Windows API to read the game display. The gamestate is parsed from the resulting image stream with OpenCV, which is then used to drive the ai. I extracted the position of the ball from which I could calculate its trajectory. From there, I estimate where the ball will be when it approaches the paddle. With this information I generate the necessary inputs to position the paddle to meet with the falling ball.
